@@ -4,7 +4,7 @@
 
 #define N 5
 
-main()
+int main()
 {
     int i;
     int A[N]= {5, 3, 2, 4, 8 }; // Pinakas dedomenwn
