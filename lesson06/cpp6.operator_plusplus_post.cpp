@@ -76,7 +76,7 @@ complex complex::operator+ (const complex &right)
     return result;
 }
 
-complex complex::operator+ (int right)
+complex complex::operator+ (int)
 {
     complex result; 
     
